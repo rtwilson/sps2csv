@@ -71,4 +71,4 @@ pip install pandas
 
 ---
 
-Made with ☕ and 🐍 by ChatGPT
+Made with 🐍 by ChatGPT and Bob appropriately pointing.
